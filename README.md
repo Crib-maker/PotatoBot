@@ -2,7 +2,7 @@
 
 # PotatoBot
 
-[![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA)](https://discord.gg/8ghncEy)
+[![](https://img.shields.io/discord/756740121323241503)](https://discord.gg/8ghncEy)
 [![](https://top.gg/api/widget/status/765811652783505418.svg)](https://discordbots.org/bot/557445719892688897)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://img.shields.io/badge/Paypal-donate-blue.svg](https://www.paypal.com/paypalme/potatobotdono)
@@ -18,12 +18,11 @@ PotatoBot offers (non-exhaustive list):
 
 ### Many commands
 
-*   👩‍💼 **Administration**: `slowmode`, `welcome`, `addcommand`, `automod`, `backup` and **11** more! 
-*   🚓 **Moderation**: `see-warns`, `setlogs`, `checkinvites`, `poll`, and **6** more! 
-*   🎵 **Music**: `play`, `skip`, `queue`, `np`, and **2** more! 
-*   👻 **Fun**: `lmg`, `findwords`, `flip`, `lovecalc`, `random` and **6** more! 
-*   🖨️ **General**: `minimize`, `setafk`, `translate`, `remindme`, `hastebin`, `fortnite`, `minecraft` and **10** more! 
-*   👑 **Owner**: `eval`, `getinvite`, `servers-list` and **2** more!
+*   🚓 **Moderation**: `setwelcomechannel `, `setmodlogchannel `, `setmuterole `, `setnick `, and **17** more! 
+*   🎵 **Music**: `play`, `skip`, `queue`, `np`, and **8** more! 
+*   👻 **Fun**: `meme`, `motivation `, `coinflip`, `roast `, `soundboard ` and **4** more! 
+*   🖨️ **leveling**: `disablexp `, `progresscolor `, `setbackground `, `enablexp`, `level`
+*   👑 **Owner**: `eval`, `servers-list`
 
 
 ### Non-customized version
