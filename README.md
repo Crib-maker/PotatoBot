@@ -2,10 +2,10 @@
 
 # PotatoBot
 
-[![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA)](https://discord.atlanta-bot.fr)
-[![](https://discordbots.org/api/widget/status/557445719892688897.svg)](https://discordbots.org/bot/557445719892688897)
+[![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA)](https://discord.gg/8ghncEy)
+[![](https://top.gg/api/widget/status/765811652783505418.svg)](https://discordbots.org/bot/557445719892688897)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
-[![](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/androz2091)
+[![](https://img.shields.io/badge/Paypal-donate-blue.svg](https://www.paypal.com/paypalme/potatobotdono)
 
 
 
@@ -29,11 +29,12 @@ PotatoBot offers (non-exhaustive list):
 ### Non-customized version
 
 
-[![Discord Bots](https://discordbots.org/api/widget/557445719892688897.svg)](https://discordbots.org/bot/557445719892688897)
+[![Discord Bots](https://top.gg/api/widget/765811652783505418.svg)](https://discordbots.org/bot/765811652783505418)
 
 
 ## Links
 
-*   [Discord](https://discord.atlanta-bot.fr)
-*   [Github](https://github.com/Androz2091/AtlantaBot/)
+*   [Discord](https://discord.gg/8ghncEy)
+*   [Github](https://github.com/Crib-maker/PotatoBot)
+*   [Invite](https://discord.com/oauth2/authorize?client_id=765811652783505418&scope=bot&permissions=939715710)
 
