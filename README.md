@@ -9,5 +9,5 @@
 </a>
 
 <a href="https://top.gg/bot/765811652783505418">
-    <img src="https://top.gg/api/widget/status/765811652783505418.svg" alt="PotatoBot" />
+    <img src="https://top.gg/api/widget/upvotes/765811652783505418.svg" alt="PotatoBot" />
 </a>
