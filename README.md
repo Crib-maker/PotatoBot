@@ -18,5 +18,5 @@
 
 # Images
 
-[Play](https://i.imgur.com/XvfX8ut.png)
+![Jason](https://i.imgur.com/XvfX8ut.png)
 
