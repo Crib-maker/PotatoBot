@@ -5,7 +5,7 @@
 [![](https://img.shields.io/discord/756740121323241503)](https://discord.gg/8ghncEy)
 [![](https://top.gg/api/widget/status/765811652783505418.svg)](https://discordbots.org/bot/557445719892688897)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
-[![](https://img.shields.io/badge/Paypal-donate-blue.svg](https://www.paypal.com/paypalme/potatobotdono)
+[![](https://img.shields.io/badge/Paypal-donate-blue.svg)](https://www.paypal.com/paypalme/potatobotdono)
 
 
 
