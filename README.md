@@ -1,22 +1,78 @@
-# PotatoBot
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Atlanta" src="https://i.goopics.net/lEENx.png">  
 
-[Support Server](https://discord.gg/8ghncEy)
+# Atlanta
 
-[Invite](https://discord.com/oauth2/authorize?client_id=765811652783505418&scope=bot&permissions=939715710)
+[![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA)](https://discord.atlanta-bot.fr)
+[![](https://discordbots.org/api/widget/status/557445719892688897.svg)](https://discordbots.org/bot/557445719892688897)
+[![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
+[![](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/androz2091)
+[![](https://www.codefactor.io/repository/github/Androz2091/AtlantaBot/badge)](https://www.codefactor.io/repository/github/Androz2091/AtlantaBot)
 
-<a href="https://top.gg/bot/765811652783505418">
-    <img src="https://top.gg/api/widget/status/765811652783505418.svg" alt="PotatoBot" />   
-</a>
+> This bot is used by more than 130,000 Discord users and more than 800 servers.
 
-<a href="https://top.gg/bot/765811652783505418">
-    <img src="https://top.gg/api/widget/upvotes/765811652783505418.svg" alt="PotatoBot" />
-</a>
+Atlanta is a open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) and [Mongoose](https://mongoosejs.com/docs/api.html) by [Androz2091](https://github.com/Androz2091).  
+Feel free to add a star ⭐ to the repository to promote the project!
 
-<a href="https://top.gg/bot/765811652783505418">
-    <img src="https://top.gg/api/widget/owner/765811652783505418.svg" alt="PotatoBot" />
-</a>
+## Features
 
-# Commands
+### Complete Bot
 
-![Jason](https://i.imgur.com/g5EM0o0.png) ![Jason](https://i.imgur.com/fqBwoHd.png)
+Atlanta offers (non-exhaustive list):
+*   ✉️ Support for commands in direct messages
+*   🇫🇷 Support for translations (illimited languages)
+*   ⚙️ Guild configuration (prefix, ignored channels, etc...)
+*   😀 Commands made pleasant thanks to the many emojis
+*   🗳️ Support for Discordbots.org votes with rewards
 
+Atlanta also adds **a new mention** like @everyone and @here, the `@someone`, which allows you to pick a random member of the server!
+
+### Many commands
+
+Atlanta has a lot of features, with **7 main categories**:
+
+*   👩‍💼 **Administration**: `slowmode`, `welcome`, `addcommand`, `automod`, `backup` and **11** more! 
+*   🚓 **Moderation**: `see-warns`, `setlogs`, `checkinvites`, `poll`, and **6** more! 
+*   🎵 **Music**: `play`, `skip`, `queue`, `np`, and **2** more! 
+*   💰 **Economy**: `profile`, `work`, `badge`, `slots`, `balance`, `leaderboard`, and **6** more! 
+*   👻 **Fun**: `lmg`, `findwords`, `flip`, `lovecalc`, `random` and **6** more! 
+*   🖨️ **General**: `minimize`, `setafk`, `translate`, `remindme`, `hastebin`, `fortnite`, `minecraft` and **10** more! 
+*   👑 **Owner**: `eval`, `getinvite`, `servers-list` and **2** more!
+
+[See the full commands list](https://www.atlanta-bot.fr/commands)
+
+### A powerful Dashboard
+
+Atlanta has its own dashboard which also offers many features! The dashboard runs with Express and EJS!
+
+<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://zupimages.net/up/19/31/c3ya.png" height="200" width="350"/>
+<img align="center" style="float: left; margin: 0 10px 0 0;" src="https://zupimages.net/up/19/31/vnq5.png" height="200" width="350"/>
+<img align="center" style="float: centrer; margin: 0 10px 0 0;" src="https://zupimages.net/up/19/31/htga.png" height="200" width="350"/>
+
+You can directly **edit your configuration**, **manage your servers**, **view rankings**, **modify your profile** and much more!
+
+> Find the code in the dashboard folder! 
+
+## Installation
+
+### Non-customized version
+
+If you don't want to edit the code of the bot, a permanent online version is available, which you can invite to your own Discord!   
+
+[![Discord Bots](https://discordbots.org/api/widget/557445719892688897.svg)](https://discordbots.org/bot/557445719892688897)
+
+### Customized version
+
+If you want to edit the bot's code and host it on your machine, it's possible!  
+You must follow the [installation guide](https://www.atlanta-bot.fr/installation/) to properly install it! Don't worry, it's fast and simple if you follow the guide!
+
+## Links
+
+*   [Commands List](https://www.atlanta-bot.fr/commands)
+*   [Installation Guide](https://www.atlanta-bot.fr/installation)
+*   [F.A.Q](https://www.atlanta-bot.fr/faq/)
+*   [Discord](https://discord.atlanta-bot.fr)
+*   [Twitter](https://twitter.com/AtlantaBot)
+*   [Github](https://github.com/Androz2091/AtlantaBot/)
+*   [Dashboard](https://dashboard.atlanta-bot.fr)
+
+## Contributing
