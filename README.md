@@ -18,5 +18,5 @@
 
 # Images
 
-[Play](https://imgur.com/a/X31wI3H)
+[Play](https://i.imgur.com/XvfX8ut.png)
 
