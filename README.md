@@ -16,7 +16,7 @@
     <img src="https://top.gg/api/widget/owner/765811652783505418.svg" alt="PotatoBot" />
 </a>
 
-# Images
+# Commands
 
 ![Jason](https://i.imgur.com/g5EM0o0.png)
 
