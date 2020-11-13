@@ -14,7 +14,7 @@
 
 PotatoBot offers (non-exhaustive list):
 
-*   ⚙️ Guild configuration (prefix, ignored channels, etc...)
+*   ⚙️ Guild configuration (prefix, welcomechannel, etc...)
 
 ### Many commands
 
